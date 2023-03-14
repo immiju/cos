@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>- Shipping to</title>
+    <g id="--Shipping-to" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sign-in">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+            <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M12,2 C8.13,2 5,4.9735 5,8.65 C5,13.6375 12,21 12,21 C12,21 19,13.6375 19,8.65 C19,4.9735 15.87,2 12,2 Z M12,11.025 C10.62,11.025 9.5,9.961 9.5,8.65 C9.5,7.339 10.62,6.275 12,6.275 C13.38,6.275 14.5,7.339 14.5,8.65 C14.5,9.961 13.38,11.025 12,11.025 Z" id="Shape" stroke="#1B1B1B" stroke-width="0.8" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

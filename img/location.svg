@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>- Store Locator</title>
+    <g id="--Store-Locator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group-6" transform="translate(3.000000, 1.000000)">
+            <path d="M18,1.24344979e-14 L18,18 L12.202,18 L9,21.2038182 L5.797,18 L0,18 L0,1.24344979e-14 L18,1.24344979e-14 Z" id="Combined-Shape" stroke="#1B1B1B" stroke-width="0.8"></path>
+            <path d="M9.45936,12.816 C10.33632,12.816 11.16288,12.64464 11.9592,12.2112 L11.9592,11.13264 C11.23344,11.6064 10.38672,11.89872 9.51984,11.89872 C7.69536,11.89872 6.78816,10.58832 6.78816,9.30816 C6.78816,7.9272 7.84656,6.69744 9.50976,6.69744 C10.3464,6.69744 11.16288,6.9696 11.88864,7.38288 L11.88864,6.32448 C11.44512,6.13296 10.53792,5.76 9.47952,5.76 C7.30224,5.76 5.76,7.40304 5.76,9.29808 C5.76,10.9008 6.90912,12.816 9.45936,12.816 Z" id="C" fill="#1B1B1B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
